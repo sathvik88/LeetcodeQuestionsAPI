@@ -1,0 +1,44 @@
+[
+  {
+    "Question" : "Contains Duplicate", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy"
+  },
+  {
+    "Question" : "Valid Anagram", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy"
+  },
+  {
+    "Question" : "Two Sum", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy"
+  },
+  {
+    "Question" : "Group Anagrams", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium"
+  },
+  {
+    "Question" : "Top K Frequent Elements", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium"
+  },
+  {
+    "Question" : "Product of Array Except Self", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium"
+  },
+  {
+    "Question" : "Valid Sudoku", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium"
+  },
+  {
+    "Question" : "Encode and Decode Strings", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium"
+  },
+  {
+    "Question" : "Longest Consecutive Sequence", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium"
+  },
+  {
+    "Question" : "Valid Palindrome", "Categorie" : "Two Pointers", "Difficulty": "Easy"
+  },
+  {
+    "Question" : "Two Sum II", "Categorie" : "Two Pointers", "Difficulty": "Medium"
+  },
+  {
+    "Question" : "3Sum", "Categorie" : "Two Pointers", "Difficulty": "Medium"
+  },
+  {
+    "Question" : "Container with Most Water", "Categorie" : "Two Pointers", "Difficulty": "Medium"
+  },
+  {
+    "Question" : "Trapping Rain Water", "Categorie" : "Two Pointers", "Difficulty": "Hard"
+  }
+]
