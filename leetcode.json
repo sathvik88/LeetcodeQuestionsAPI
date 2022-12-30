@@ -442,6 +442,110 @@
   },
   {
     "Question" : "Reverse Integer", "Categorie" : "Bit Manipulation", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0007-reverse-integer.py"
-  }
-  
+  },
+  {
+    "Question" : "Maxium Number of Balloons", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1189-Maximum-Number-of-Balloons.py"
+  },
+  {
+    "Question" : "Find all Numbers Disappeared in an Array", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0448-find-all-numbers-disappeared-in-an-array.py"
+  },
+  {
+    "Question" : "Next Greater Element I", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0496-next-greater-element-i.py"
+  },
+  {
+    "Question" : "Grid Game", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/2017-grid-game.py"
+  },
+  {
+    "Question" : "Find All Anagrams In a String", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0438-find-all-anagrams-in-a-string.py"
+  },
+  {
+    "Question" : "Find The Index of The First Occurrence In a String", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0028-find-the-index-of-the-first-occurrence-in-a-string.py"
+  },
+  {
+    "Question" : "Continuous Subarray Sum", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0523-continuous-subarray-sum.py"
+  },
+  {
+    "Question" : "4Sum", "Categorie" : "Two Pointers", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0018-4sum.py"
+  },
+  {
+    "Question" : "Move Zeros", "Categorie" : "Two Pointers", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0283-move-zeroes.py"
+  },
+  {
+    "Question" : "Merge Sorted Array", "Categorie" : "Two Pointers", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0088-merge-sorted-array.py"
+  },
+  {
+    "Question" : "Find K Closest Elements", "Categorie" : "Sliding Window", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0658-find-k-closest-elements.py"
+  },
+  {
+    "Question" : "Simplify Path", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0071-simplify-path.py"
+  },
+  {
+    "Question" : "Decode String", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0394-decode-string.py"
+  },
+  {
+    "Question" : "Remove All Adjacent Duplicates In String II", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1209-remove-all-adjacent-duplicates-in-string-ii.py"
+  },
+  {
+    "Question" : "Online Stock Span", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0901-online-stock-span.py"
+  },
+  {
+    "Question" : "Split Array Largest Sum", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0410-split-array-largest-sum.py"
+  },
+  {
+    "Question" : "Search In Rotated Sorted Array", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0033-search-in-rotated-sorted-array.py"
+  },
+  {
+    "Question" : "Find Minimum In Rotated Sorted Array", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0153-find-minimum-in-rotated-sorted-array.py"
+  },
+  {
+    "Question" : "Guess Number Higher Or Lower", "Categorie" : "Binary Search", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0374-guess-number-higher-or-lower.py"
+  },
+  {
+    "Question" : "Linked List Cycle", "Categorie" : "Linked List", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0141-linked-list-cycle.py"
+  },
+  {
+    "Question" : "Swap Nodes In Pairs", "Categorie" : "Linked List", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0024-swap-nodes-in-pairs.py"
+  },
+  {
+    "Question" : "Reverse Linked List II", "Categorie" : "Linked List", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0092-reverse-linked-list-ii.py"
+  },
+  {
+    "Question" : "Intersection of Two Linked Lists", "Categorie" : "Linked List", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0160-intersection-of-two-linked-lists.py"
+  },
+  {
+    "Question" : "Reverse Nodes In K Group", "Categorie" : "Linked List", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0025-reverse-nodes-in-k-group.py"
+  },
+  {
+    "Question" : "Diameter of Binary Tree", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0543-diameter-of-binary-tree.py"
+  },
+  {
+    "Question" : "Merge Two Binary Trees", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0617-merge-two-binary-trees.py"
+  },
+  {
+    "Question" : "Path Sum", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0064-minimum-path-sum.py"
+  },
+  {
+    "Question" : "Count Good Nodes In Binary Tree", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1448-count-good-nodes-in-binary-tree.py"
+  },
+  {
+    "Question" : "Validate Binary Search Tree", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0098-validate-binary-search-tree.py"
+  },
+  {
+    "Question" : "Construct Binary Tree From Preorder And Inorder Traversal", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0105-construct-binary-tree-from-preorder-and-inorder-traversal.py"
+  },
+  {
+    "Question" : "K Closest Points to Origin", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0973-k-closest-points-to-origin.py"
+  },
+  {
+    "Question" : "Kth Largest Element In An Array", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0215-kth-largest-element-in-an-array.py"
+  },
+  {
+    "Question" : "Seat Reservation Manager", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1845-seat-reservation-manager.py"
+  },
+  {
+    "Question" : "Find The Kth Largest Integer In The Array", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1985-find-the-kth-largest-integer-in-the-array.py"
+  },
+  {
+    "Question" : "Reorganize String", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0767-reorganize-string.py"
+  },
 ]
