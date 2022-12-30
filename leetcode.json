@@ -547,5 +547,5 @@
   },
   {
     "Question" : "Reorganize String", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0767-reorganize-string.py"
-  },
+  }
 ]
