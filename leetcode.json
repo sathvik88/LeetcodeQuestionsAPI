@@ -1,551 +1,1284 @@
 [
   {
-    "Question" : "Contains Duplicate", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0217-contains-duplicate.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ContainsDuplicate.png"
+    "Question" : "Contains Duplicate",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0217-contains-duplicate.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ContainsDuplicate.png", 
+
   },
   {
-    "Question" : "Valid Anagram", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0242-valid-anagram.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ValidAnagram.png"
+    "Question" : "Valid Anagram",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0242-valid-anagram.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ValidAnagram.png"
   },
   {
-    "Question" : "Two Sum", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0001-two-sum.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/TwoSum.png"
+    "Question" : "Two Sum",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0001-two-sum.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/TwoSum.png"
   },
   {
-    "Question" : "Group Anagrams", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0049-group-anagrams.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/GroupAnagrams.png"
+    "Question" : "Group Anagrams",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0049-group-anagrams.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/GroupAnagrams.png"
   },
   {
-    "Question" : "Top K Frequent Elements", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0347-top-k-frequent-elements.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Top K Frequent Elements",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0347-top-k-frequent-elements.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Product of Array Except Self", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0238-product-of-array-except-self.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ProductOfArray.png"
+    "Question" : "Product of Array Except Self",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0238-product-of-array-except-self.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ProductOfArray.png"
   },
   {
-    "Question" : "Valid Sudoku", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0036-valid-sudoku.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ValidSudoku.png"
+    "Question" : "Valid Sudoku",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0036-valid-sudoku.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ValidSudoku.png"
   },
   {
-    "Question" : "Encode and Decode Strings", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0271-encode-and-decode-strings.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/EncodeAndDecodeStrings.png"
+    "Question" : "Encode and Decode Strings",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0271-encode-and-decode-strings.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/EncodeAndDecodeStrings.png"
   },
   {
-    "Question" : "Longest Consecutive Sequence", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0128-longest-consecutive-sequence.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/LongestConsecutiveSeq.png"
+    "Question" : "Longest Consecutive Sequence",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0128-longest-consecutive-sequence.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/LongestConsecutiveSeq.png"
   },
   {
-    "Question" : "Valid Palindrome", "Categorie" : "Two Pointers", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0125-valid-palindrome.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ValidPalindrome.png"
+    "Question" : "Valid Palindrome",
+    "Categorie" : "Two Pointers",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0125-valid-palindrome.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ValidPalindrome.png"
   },
   {
-    "Question" : "Two Sum II", "Categorie" : "Two Pointers", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0167-two-sum-ii-input-array-is-sorted.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/TwoSumiiSorted.png"
+    "Question" : "Two Sum II",
+    "Categorie" : "Two Pointers",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0167-two-sum-ii-input-array-is-sorted.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/TwoSumiiSorted.png"
   },
   {
-    "Question" : "3Sum", "Categorie" : "Two Pointers", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0015-3sum.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "3Sum",
+    "Categorie" : "Two Pointers",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0015-3sum.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Container with Most Water", "Categorie" : "Two Pointers", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0011-container-with-most-water.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ContainerWithMostWater.png"
+    "Question" : "Container with Most Water",
+    "Categorie" : "Two Pointers",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0011-container-with-most-water.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ContainerWithMostWater.png"
   },
   {
-    "Question" : "Trapping Rain Water", "Categorie" : "Two Pointers", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0042-trapping-rain-water.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/TrappingRainWater.png"
+    "Question" : "Trapping Rain Water",
+    "Categorie" : "Two Pointers",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0042-trapping-rain-water.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/TrappingRainWater.png"
   },
   {
-    "Question" : "Best Time to Buy & Sell Stocks", "Categorie" : "Sliding Window", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0121-best-time-to-buy-and-sell-stock.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/BestTimeToBuyAndSellStock.png"
+    "Question" : "Best Time to Buy & Sell Stocks",
+    "Categorie" : "Sliding Window",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0121-best-time-to-buy-and-sell-stock.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/BestTimeToBuyAndSellStock.png"
   },
   {
-    "Question" : "Longest Substring W/O Repeating Chars", "Categorie" : "Sliding Window", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0003-longest-substring-without-repeating-characters.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Longest Substring W/O Repeating Chars",
+    "Categorie" : "Sliding Window",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0003-longest-substring-without-repeating-characters.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Longest Repeating Char Replacement", "Categorie" : "Sliding Window", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0424-longest-repeating-character-replacement.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/LongestRepeatingCharacter.png"
+    "Question" : "Longest Repeating Char Replacement",
+    "Categorie" : "Sliding Window",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0424-longest-repeating-character-replacement.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/LongestRepeatingCharacter.png"
   },
   {
-    "Question" : "Permutation In String", "Categorie" : "Sliding Window", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0567-permutation-in-string.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/PermutationsInAString.png"
+    "Question" : "Permutation In String",
+    "Categorie" : "Sliding Window",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0567-permutation-in-string.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/PermutationsInAString.png"
   },
   {
-    "Question" : "Minimum Window Substring", "Categorie" : "Sliding Window", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0076-minimum-window-substring.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MinimumWindowSubs.png"
+    "Question" : "Minimum Window Substring",
+    "Categorie" : "Sliding Window",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0076-minimum-window-substring.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MinimumWindowSubs.png"
   },
   {
-    "Question" : "Sliding Window Maximum", "Categorie" : "Sliding Window", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0239-sliding-window-maximum.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/SlidingWindowMax.png"
+    "Question" : "Sliding Window Maximum",
+    "Categorie" : "Sliding Window",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0239-sliding-window-maximum.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/SlidingWindowMax.png"
   },
   {
-    "Question" : "Valid Parentheses", "Categorie" : "Stack", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0020-valid-parentheses.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ValidParentheses.png"
+    "Question" : "Valid Parentheses",
+    "Categorie" : "Stack",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0020-valid-parentheses.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ValidParentheses.png"
   },
   {
-    "Question" : "Min Stack", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0155-min-stack.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MinStack.png"
+    "Question" : "Min Stack",
+    "Categorie" : "Stack",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0155-min-stack.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MinStack.png"
   },
   {
-    "Question" : "Evaluate Reverse Polish Notation", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0150-evaluate-reverse-polish-notation.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ReversePolishNotation.png"
+    "Question" : "Evaluate Reverse Polish Notation",
+    "Categorie" : "Stack",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0150-evaluate-reverse-polish-notation.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ReversePolishNotation.png"
   },
   {
-    "Question" : "Car Fleet", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0853-car-fleet.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/CarFleet.png"
+    "Question" : "Car Fleet",
+    "Categorie" : "Stack",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0853-car-fleet.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/CarFleet.png"
   },
   {
-    "Question" : "Daily Temperatures", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0739-daily-temperatures.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/DailyTemp.png"
+    "Question" : "Daily Temperatures",
+    "Categorie" : "Stack",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0739-daily-temperatures.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/DailyTemp.png"
   },
   {
-    "Question" : "Generate Parentheses", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0022-generate-parentheses.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/GenerateParentheses.png"
+    "Question" : "Generate Parentheses",
+    "Categorie" : "Stack",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0022-generate-parentheses.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/GenerateParentheses.png"
   },
   {
-    "Question" : "Largest Rectangle in Histogram", "Categorie" : "Stack", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0084-largest-rectangle-in-histogram.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/LargestRectangle.png"
+    "Question" : "Largest Rectangle in Histogram",
+    "Categorie" : "Stack",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0084-largest-rectangle-in-histogram.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/LargestRectangle.png"
   },
   {
-    "Question" : "Binary Search", "Categorie" : "Binary Search", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0704-binary-search.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/BinarySearch.png"
+    "Question" : "Binary Search",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0704-binary-search.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/BinarySearch.png"
   },
   {
-    "Question" : "Search 2D Matrix", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0074-search-a-2d-matrix.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/Search2D.png"
+    "Question" : "Search 2D Matrix",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0074-search-a-2d-matrix.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/Search2D.png"
   },
   {
-    "Question" : "Koko Eating Bananas", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0875-koko-eating-bananas.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/KoKoEating.png"
+    "Question" : "Koko Eating Bananas",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0875-koko-eating-bananas.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/KoKoEating.png"
   },
   {
-    "Question" : "Search Rotated Sorted Array", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0033-search-in-rotated-sorted-array.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/SearchInRotatedArray.png"
+    "Question" : "Search Rotated Sorted Array",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0033-search-in-rotated-sorted-array.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/SearchInRotatedArray.png"
   },
   {
-    "Question" : "Find Min in Rotated Sorted Array", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0153-find-minimum-in-rotated-sorted-array.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/FindMinRotatedArray.png"
+    "Question" : "Find Min in Rotated Sorted Array",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0153-find-minimum-in-rotated-sorted-array.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/FindMinRotatedArray.png"
   },
   {
-    "Question" : "Time Based Key-Value Store", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0981-time-based-key-value-store.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/TimeBased.png"
+    "Question" : "Time Based Key-Value Store",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0981-time-based-key-value-store.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/TimeBased.png"
   },
   {
-    "Question" : "Find Median of Two Sorted Arrays", "Categorie" : "Binary Search", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0004-median-of-two-sorted-arrays.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MedianSortedArray.png"
+    "Question" : "Find Median of Two Sorted Arrays",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0004-median-of-two-sorted-arrays.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MedianSortedArray.png"
   },
   {
-    "Question" : "Reverse Linked List", "Categorie" : "Linked List", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0206-reverse-linked-list.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ReverseLinkedList.png"
+    "Question" : "Reverse Linked List",
+    "Categorie" : "Linked List",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0206-reverse-linked-list.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ReverseLinkedList.png"
   },
   {
-    "Question" : "Merge Two Linked Lists", "Categorie" : "Linked List", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0021-merge-two-sorted-lists.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MergeTwoLists.png"
+    "Question" : "Merge Two Linked Lists",
+    "Categorie" : "Linked List",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0021-merge-two-sorted-lists.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MergeTwoLists.png"
   },
   {
-    "Question" : "Reorder List", "Categorie" : "Linked List", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0143-reorder-list.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ReorderList.png"
+    "Question" : "Reorder List",
+    "Categorie" : "Linked List",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0143-reorder-list.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ReorderList.png"
   },
   {
-    "Question" : "Remove Nth Node from End of List", "Categorie" : "Linked List", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0019-remove-nth-node-from-end-of-list.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/RemoveNthNode.png"
+    "Question" : "Remove Nth Node from End of List",
+    "Categorie" : "Linked List",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0019-remove-nth-node-from-end-of-list.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/RemoveNthNode.png"
   },
   {
-    "Question" : "Copy List with Random Pointer", "Categorie" : "Linked List", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0138-copy-list-with-random-pointer.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/CopyListRandom.png"
+    "Question" : "Copy List with Random Pointer",
+    "Categorie" : "Linked List",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0138-copy-list-with-random-pointer.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/CopyListRandom.png"
   },
   {
-    "Question" : "Add Two Numbers", "Categorie" : "Linked List", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0002-add-two-numbers.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/AddTwoNumbers.png"
+    "Question" : "Add Two Numbers",
+    "Categorie" : "Linked List",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0002-add-two-numbers.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/AddTwoNumbers.png"
   },
   {
-    "Question" : "Linked Listy Cycle", "Categorie" : "Linked List", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0141-linked-list-cycle.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/LinkedListCycle.png"
+    "Question" : "Linked Listy Cycle",
+    "Categorie" : "Linked List",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0141-linked-list-cycle.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/LinkedListCycle.png"
   },
   {
-    "Question" : "Find the Duplicate Number", "Categorie" : "Linked List", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0287-find-the-duplicate-number.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/FindDuplicate.png"
+    "Question" : "Find the Duplicate Number",
+    "Categorie" : "Linked List",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0287-find-the-duplicate-number.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/FindDuplicate.png"
   },
   {
-    "Question" : "LRU Cache", "Categorie" : "Linked List", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0146-lru-cache.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/LRUCache.png"
+    "Question" : "LRU Cache",
+    "Categorie" : "Linked List",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0146-lru-cache.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/LRUCache.png"
   },
   {
-    "Question" : "Merge K Sorted Lists", "Categorie" : "Linked List", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0023-merge-k-sorted-lists.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MergeKSorted.png"
+    "Question" : "Merge K Sorted Lists",
+    "Categorie" : "Linked List",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0023-merge-k-sorted-lists.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MergeKSorted.png"
   },
   {
-    "Question" : "Reverse Nodes in K-Group", "Categorie" : "Linked List", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0025-reverse-nodes-in-k-group.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ReverseNodeKGroup.png"
+    "Question" : "Reverse Nodes in K-Group",
+    "Categorie" : "Linked List",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0025-reverse-nodes-in-k-group.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ReverseNodeKGroup.png"
   },
   {
-    "Question" : "Invert Binary Tree", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0226-invert-binary-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/InvertBinaryTree.png"
+    "Question" : "Invert Binary Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0226-invert-binary-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/InvertBinaryTree.png"
   },
   {
-    "Question" : "Maximum Depth of Binary Tree", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0104-maximum-depth-of-binary-Tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MaxDepthBT.png"
+    "Question" : "Maximum Depth of Binary Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0104-maximum-depth-of-binary-Tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/MaxDepthBT.png"
   },
   {
-    "Question" : "Diameter of a Binary Tree", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0543-diameter-of-binary-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/DiameterBT.png"
+    "Question" : "Diameter of a Binary Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0543-diameter-of-binary-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/DiameterBT.png"
   },
   {
-    "Question" : "Balanced Binary Tree", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0110-balanced-binary-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/BalancedBT.png"
+    "Question" : "Balanced Binary Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0110-balanced-binary-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/BalancedBT.png"
   },
   {
-    "Question" : "Same Tree", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0100-same-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/SameTree.png"
+    "Question" : "Same Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0100-same-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/SameTree.png"
   },
   {
-    "Question" : "Subtree of Another Tree", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0572-subtree-of-another-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/SubTree.png"
+    "Question" : "Subtree of Another Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0572-subtree-of-another-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/SubTree.png"
   },
   {
-    "Question" : "Lowest Common Ancestor of a BST", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0235-lowest-common-ancestor-of-a-binary-search-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Lowest Common Ancestor of a BST",
+    "Categorie" : "Trees",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0235-lowest-common-ancestor-of-a-binary-search-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Binary Tree Level Order Traversal", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0102-binary-tree-level-order-traversal.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Binary Tree Level Order Traversal",
+    "Categorie" : "Trees",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0102-binary-tree-level-order-traversal.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/BTLevelOrder.png"
   },
   {
-    "Question" : "Binary Tree Right Side View", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0199-binary-tree-right-side-view.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Binary Tree Right Side View",
+    "Categorie" : "Trees",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0199-binary-tree-right-side-view.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/BTRightSide.png"
   },
   {
-    "Question" : "Count Good Nodes in a Binary Tree", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1448-count-good-nodes-in-binary-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Count Good Nodes in a Binary Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1448-count-good-nodes-in-binary-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/CountGood.png"
   },
   {
-    "Question" : "Validate a BST", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0098-validate-binary-search-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Validate a BST",
+    "Categorie" : "Trees",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0098-validate-binary-search-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ValidBT.png"
   },
   {
-    "Question" : "Kth Smallest Element in a BST", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0230-kth-smallest-element-in-a-bst.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Kth Smallest Element in a BST",
+    "Categorie" : "Trees",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0230-kth-smallest-element-in-a-bst.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/kth-smallest-element-in-a-bst.png"
   },
   {
-    "Question" : "Construct Tree from Pre and Inorder Tree", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0105-construct-binary-tree-from-preorder-and-inorder-traversal.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Construct Tree from Pre and Inorder Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/construct-binary-tree-from-preorder-and-inorder-traversal.png"
   },
   {
-    "Question" : "Implement Trie", "Categorie" : "Tries", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0208-implement-trie.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Implement Trie",
+    "Categorie" : "Tries",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0208-implement-trie.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/implement-trie.png"
   },
   {
-    "Question" : "Design Add and Search Word DS", "Categorie" : "Tries", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0211-design-add-and-search-words-data-structure.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Design Add and Search Word DS",
+    "Categorie" : "Tries",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0211-design-add-and-search-words-data-structure.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/design-add-and-search-words-data-structure.png"
   },
   {
-    "Question" : "Word Search II", "Categorie" : "Tries", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0212-word-search-ii.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Word Search II",
+    "Categorie" : "Tries",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0212-word-search-ii.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/word-search-ii.png"
   },
   {
-    "Question" : "Kth Largest Element in a Stream", "Categorie" : "Heap", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0703-kth-largest-element-in-a-stream.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Kth Largest Element in a Stream",
+    "Categorie" : "Heap",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0703-kth-largest-element-in-a-stream.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/kth-largest-element-in-a-stream.png"
   },
   {
-    "Question" : "Last Stone Weight", "Categorie" : "Heap", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1046-last-stone-weight.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Last Stone Weight",
+    "Categorie" : "Heap",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1046-last-stone-weight.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/last-stone-weight.png"
   },
   {
-    "Question" : "K Closest Points to Origin", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0973-k-closest-points-to-origin.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "K Closest Points to Origin",
+    "Categorie" : "Heap",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0973-k-closest-points-to-origin.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/k-closest-points-to-origin.png"
   },
   {
-    "Question" : "Kth Largest Element in an Array", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0215-kth-largest-element-in-an-array.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Kth Largest Element in an Array",
+    "Categorie" : "Heap",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0215-kth-largest-element-in-an-array.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/kth-largest-element-in-an-array.png"
   },
   {
-    "Question" : "Task Scheduler", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0621-task-scheduler.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Task Scheduler",
+    "Categorie" : "Heap",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0621-task-scheduler.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/task-scheduler.png"
   },
   {
-    "Question" : "Design Twitter", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0355-design-twitter.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Design Twitter",
+    "Categorie" : "Heap",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0355-design-twitter.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/design-twitter.png"
   },
   {
-    "Question" : "Find Median from Data Stream", "Categorie" : "Heap", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0295-find-median-from-data-stream.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Find Median from Data Stream",
+    "Categorie" : "Heap",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0295-find-median-from-data-stream.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/find-median-from-data-stream.png"
   },
   {
-    "Question" : "Subsets", "Categorie" : "Backtracking", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0078-subsets.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Subsets",
+    "Categorie" : "Backtracking",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0078-subsets.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/subsets.png"
   },
   {
-    "Question" : "Combination Sum", "Categorie" : "Backtracking", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0039-combination-sum.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Combination Sum",
+    "Categorie" : "Backtracking",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0039-combination-sum.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/combination-sum.png"
   },
   {
-    "Question" : "Permutations", "Categorie" : "Backtracking", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0046-permutations.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Permutations",
+    "Categorie" : "Backtracking",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0046-permutations.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/permutations.png"
   },
   {
-    "Question" : "Subsets II", "Categorie" : "Backtracking", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0090-subsets-ii.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Subsets II",
+    "Categorie" : "Backtracking",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0090-subsets-ii.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/subsets-ii.png"
   },
   {
-    "Question" : "Combination Sum II", "Categorie" : "Backtracking", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0040-combination-sum-ii.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Combination Sum II",
+    "Categorie" : "Backtracking",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0040-combination-sum-ii.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/combination-sum-ii.png"
   },
   {
-    "Question" : "Word Search", "Categorie" : "Backtracking", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0079-word-search.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Word Search",
+    "Categorie" : "Backtracking",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0079-word-search.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/word-search.png"
   },
   {
-    "Question" : "Palindrome Partitioning", "Categorie" : "Backtracking", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0131-palindrome-partitioning.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Palindrome Partitioning",
+    "Categorie" : "Backtracking",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0131-palindrome-partitioning.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/palindrome-partitioning.png"
   },
   {
-    "Question" : "Letter Combinations of a Phone Number", "Categorie" : "Backtracking", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0017-letter-combinations-of-a-phone-number.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Letter Combinations of a Phone Number",
+    "Categorie" : "Backtracking",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0017-letter-combinations-of-a-phone-number.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/letter-combinations-of-a-phone-number.png"
   },
   {
-    "Question" : "N-Queens", "Categorie" : "Backtracking", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0051-n-queens.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "N-Queens",
+    "Categorie" : "Backtracking",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0051-n-queens.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/n-queens.png"
   },
   {
-    "Question" : "Number of Islands", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0200-number-of-islands.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Number of Islands",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0200-number-of-islands.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/number-of-islands.png"
   },
   {
-    "Question" : "Clone Graph", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0133-clone-graph.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Clone Graph",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0133-clone-graph.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/clone-graph.png"
   },
   {
-    "Question" : "Max Area of Island", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0695-max-area-of-island.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Max Area of Island",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0695-max-area-of-island.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/max-area-of-island.png"
   },
   {
-    "Question" : "Pacific Atlantic Waterflow", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0417-pacific-atlantic-waterflow.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Pacific Atlantic Waterflow",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0417-pacific-atlantic-waterflow.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Surrounded Regions", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0130-surrounded-regions.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Surrounded Regions",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0130-surrounded-regions.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Rotting Oranges", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0994-rotting-oranges.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Rotting Oranges",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0994-rotting-oranges.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Walls and Gates", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0286-walls-and-gates.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Walls and Gates",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0286-walls-and-gates.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Course Schedule", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0207-course-schedule.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Course Schedule",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0207-course-schedule.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Course Schedule II", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0210-course-schedule-ii.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Course Schedule II",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0210-course-schedule-ii.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Redundant Connection", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0684-redundant-connection.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Redundant Connection",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0684-redundant-connection.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Number of Connected Components in Graph", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0323-number-of-connected-components-in-an-undirected-graph.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Number of Connected Components in Graph",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0323-number-of-connected-components-in-an-undirected-graph.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Graph Valid Tree", "Categorie" : "Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0261-graph-valid-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Graph Valid Tree",
+    "Categorie" : "Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0261-graph-valid-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Word Ladder", "Categorie" : "Graphs", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0127-word-ladder.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Word Ladder",
+    "Categorie" : "Graphs",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0127-word-ladder.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Reconstruct Itinerary", "Categorie" : "Advanced Graphs", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0332-reconstruct-itinerary.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Reconstruct Itinerary",
+    "Categorie" : "Advanced Graphs",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0332-reconstruct-itinerary.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Min Cost to Connect all Points", "Categorie" : "Advanced Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1584-min-cost-to-connect-all-points.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Min Cost to Connect all Points",
+    "Categorie" : "Advanced Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1584-min-cost-to-connect-all-points.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Network Delay Time", "Categorie" : "Advanced Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0743-network-delay-time.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Network Delay Time",
+    "Categorie" : "Advanced Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0743-network-delay-time.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Swim in Rising Water", "Categorie" : "Advanced Graphs", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0778-swim-in-rising-water.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Swim in Rising Water",
+    "Categorie" : "Advanced Graphs",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0778-swim-in-rising-water.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Alien Dictionary", "Categorie" : "Advanced Graphs", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0269-alien-dictionary.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Alien Dictionary",
+    "Categorie" : "Advanced Graphs",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0269-alien-dictionary.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Cheapest Flights Within K Stops", "Categorie" : "Advanced Graphs", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0787-cheapest-flights-within-k-stops.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Cheapest Flights Within K Stops",
+    "Categorie" : "Advanced Graphs",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0787-cheapest-flights-within-k-stops.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Climbing Stairs", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0070-climbing-stairs.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Climbing Stairs",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0070-climbing-stairs.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Min Cost Climbing Stairs", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0746-min-cost-climbing-stairs.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Min Cost Climbing Stairs",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0746-min-cost-climbing-stairs.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "House Robber", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0198-house-robber.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "House Robber",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0198-house-robber.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "House Robber II", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0213-house-robber-ii.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "House Robber II",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0213-house-robber-ii.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Longest Palindromic Substring", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0005-longest-palindromic-substring.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Longest Palindromic Substring",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0005-longest-palindromic-substring.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Palindromic Substrings", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0647-palindromic-substrings.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Palindromic Substrings",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0647-palindromic-substrings.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Decode Ways", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0091-decode-ways.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Decode Ways",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0091-decode-ways.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Coin Change", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0322-coin-change.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Coin Change",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0322-coin-change.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Maximum Product Subarray", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0152-maximum-product-subarray.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Maximum Product Subarray",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0152-maximum-product-subarray.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Word Break", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0139-word-break.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Word Break",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0139-word-break.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Longest Increasing Subsequence", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0300-longest-increasing-subsequence.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Longest Increasing Subsequence",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0300-longest-increasing-subsequence.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Partial Equal Subset Sum", "Categorie" : "1-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0416-partition-equal-subset-sum.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Partial Equal Subset Sum",
+    "Categorie" : "1-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0416-partition-equal-subset-sum.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Unique Paths", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0062-unique-paths.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Unique Paths",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0062-unique-paths.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Longest Common Subsequence", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1143-longest-common-subsequence.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Longest Common Subsequence",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1143-longest-common-subsequence.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Best Time to Buy/Sell Stock Cooldown", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0309-best-time-to-buy-and-sell-stock-with-cooldown.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Best Time to Buy/Sell Stock Cooldown",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0309-best-time-to-buy-and-sell-stock-with-cooldown.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Coin Change II", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0518-coin-change-2.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Coin Change II",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0518-coin-change-2.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Target Sum", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0494-target-sum.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Target Sum",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0494-target-sum.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Interleaving String", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0097-interleaving-strings.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Interleaving String",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0097-interleaving-strings.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Longest Increasing Path in a Matrix", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0329-longest-increasing-path-in-a-matrix.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Longest Increasing Path in a Matrix",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0329-longest-increasing-path-in-a-matrix.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Distinct Subsequences", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0115-distinct-subsequences.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Distinct Subsequences",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0115-distinct-subsequences.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Edit Distance", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0072-edit-distance.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Edit Distance",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0072-edit-distance.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Burst Balloons", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0312-burst-balloons.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Burst Balloons",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0312-burst-balloons.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Regular Expression Matching", "Categorie" : "2-D Dynamic Programming", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0010-regular-expression-matching.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Regular Expression Matching",
+    "Categorie" : "2-D Dynamic Programming",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0010-regular-expression-matching.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Maximum Subarray", "Categorie" : "Greedy", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0053-maximum-subarray.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Maximum Subarray",
+    "Categorie" : "Greedy",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0053-maximum-subarray.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Jump Game", "Categorie" : "Greedy", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0055-jump-game.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Jump Game",
+    "Categorie" : "Greedy",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0055-jump-game.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Jump Game II", "Categorie" : "Greedy", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0045-jump-game-ii.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Jump Game II",
+    "Categorie" : "Greedy",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0045-jump-game-ii.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Gas Station", "Categorie" : "Greedy", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0134-gas-station.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Gas Station",
+    "Categorie" : "Greedy",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0134-gas-station.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Hand of Striaght", "Categorie" : "Greedy", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0846-hand-of-straights.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Hand of Striaght",
+    "Categorie" : "Greedy",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0846-hand-of-straights.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Merge Triplets to From Target Triplet", "Categorie" : "Greedy", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1899-merge-triplets-to-form-target-triplet.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Merge Triplets to From Target Triplet",
+    "Categorie" : "Greedy",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1899-merge-triplets-to-form-target-triplet.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Partition Labels", "Categorie" : "Greedy", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0763-partition-labels.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Partition Labels",
+    "Categorie" : "Greedy",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0763-partition-labels.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Valid Parenthesis String", "Categorie" : "Greedy", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0678-valid-parenthesis-string.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Valid Parenthesis String",
+    "Categorie" : "Greedy", "Difficulty":
+    "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0678-valid-parenthesis-string.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Insert Interval", "Categorie" : "Intervals", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0057-insert-interval.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Insert Interval",
+    "Categorie" : "Intervals",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0057-insert-interval.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Merge Intervals", "Categorie" : "Intervals", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0056-merge-intervals.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Merge Intervals",
+    "Categorie" : "Intervals",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0056-merge-intervals.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Non-Overlapping Intervals", "Categorie" : "Intervals", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0435-non-overlapping-intervals.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Non-Overlapping Intervals",
+    "Categorie" : "Intervals",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0435-non-overlapping-intervals.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Meeting Rooms", "Categorie" : "Intervals", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0252-meeting-rooms.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Meeting Rooms",
+    "Categorie" : "Intervals",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0252-meeting-rooms.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Meeting Rooms II", "Categorie" : "Intervals", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0253-meeting-rooms-ii.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Meeting Rooms II",
+    "Categorie" : "Intervals",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0253-meeting-rooms-ii.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Minimum Interval to Include Each Query", "Categorie" : "Intervals", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1851-minimum-interval-to-include-each-query.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Minimum Interval to Include Each Query",
+    "Categorie" : "Intervals",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1851-minimum-interval-to-include-each-query.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Rotate Image", "Categorie" : "Math & Geometery", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0048-rotate-image.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Rotate Image",
+    "Categorie" : "Math & Geometery",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0048-rotate-image.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Spiral Matrix", "Categorie" : "Math & Geometery", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0054-spiral-matrix.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Spiral Matrix",
+    "Categorie" : "Math & Geometery",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0054-spiral-matrix.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Set Matrix Zeros", "Categorie" : "Math & Geometery", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0073-set-matrix-zeroes.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Set Matrix Zeros",
+    "Categorie" : "Math & Geometery",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0073-set-matrix-zeroes.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Happy Number", "Categorie" : "Math & Geometery", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0202-happy-number.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Happy Number",
+    "Categorie" : "Math & Geometery",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0202-happy-number.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Plus One", "Categorie" : "Math & Geometery", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0066-plus-one.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Plus One",
+    "Categorie" : "Math & Geometery",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0066-plus-one.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Pow(x,n)", "Categorie" : "Math & Geometery", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0050-powx-n.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Pow(x,n)",
+    "Categorie" : "Math & Geometery",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0050-powx-n.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Multiply Strings", "Categorie" : "Math & Geometery", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0043-multiply-strings.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Multiply Strings",
+    "Categorie" : "Math & Geometery",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0043-multiply-strings.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Detect Squares", "Categorie" : "Math & Geometery", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/2013-detect-squares.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Detect Squares",
+    "Categorie" : "Math & Geometery",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/2013-detect-squares.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Single Number", "Categorie" : "Bit Manipulation", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0136-single-number.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Single Number",
+    "Categorie" : "Bit Manipulation",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0136-single-number.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Number of 1 Bits", "Categorie" : "Bit Manipulation", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0191-number-of-1-bits.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Number of 1 Bits",
+    "Categorie" : "Bit Manipulation",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0191-number-of-1-bits.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Counting Bits", "Categorie" : "Bit Manipulation", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0338-counting-bits.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Counting Bits",
+    "Categorie" : "Bit Manipulation",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0338-counting-bits.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Reverse Bits", "Categorie" : "Bit Manipulation", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0190-reverse-bits.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Reverse Bits",
+    "Categorie" : "Bit Manipulation",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0190-reverse-bits.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Missing Number", "Categorie" : "Bit Manipulation", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0268-missing-number.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Missing Number",
+    "Categorie" : "Bit Manipulation",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0268-missing-number.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Sum of Two Integers", "Categorie" : "Bit Manipulation", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0371-sum-of-two-integers.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Sum of Two Integers",
+    "Categorie" : "Bit Manipulation",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0371-sum-of-two-integers.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Reverse Integer", "Categorie" : "Bit Manipulation", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0007-reverse-integer.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Reverse Integer",
+    "Categorie" : "Bit Manipulation",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0007-reverse-integer.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Maxium Number of Balloons", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1189-Maximum-Number-of-Balloons.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Maxium Number of Balloons",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1189-Maximum-Number-of-Balloons.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Find all Numbers Disappeared in an Array", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0448-find-all-numbers-disappeared-in-an-array.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Find all Numbers Disappeared in an Array",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0448-find-all-numbers-disappeared-in-an-array.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Next Greater Element I", "Categorie" : "Arrays and Hashing", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0496-next-greater-element-i.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/NextGreaterElement.png"
+    "Question" : "Next Greater Element I",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0496-next-greater-element-i.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/NextGreaterElement.png"
   },
   {
-    "Question" : "Grid Game", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/2017-grid-game.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/GridGame.png"
+    "Question" : "Grid Game",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/2017-grid-game.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/GridGame.png"
   },
   {
-    "Question" : "Find All Anagrams In a String", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0438-find-all-anagrams-in-a-string.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/FindAllAnagramsInString.png"
+    "Question" : "Find All Anagrams In a String",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0438-find-all-anagrams-in-a-string.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/FindAllAnagramsInString.png"
   },
   {
-    "Question" : "Find The Index of The First Occurrence In a String", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0028-find-the-index-of-the-first-occurrence-in-a-string.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/FindTheIndex.png"
+    "Question" : "Find The Index of The First Occurrence In a String",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/FindTheIndex.png"
   },
   {
-    "Question" : "Continuous Subarray Sum", "Categorie" : "Arrays and Hashing", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0523-continuous-subarray-sum.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ContinousSubArray.png"
+    "Question" : "Continuous Subarray Sum",
+    "Categorie" : "Arrays and Hashing",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0523-continuous-subarray-sum.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/ContinousSubArray.png"
   },
   {
-    "Question" : "4Sum", "Categorie" : "Two Pointers", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0018-4sum.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/4Sum.png"
+    "Question" : "4Sum",
+    "Categorie" : "Two Pointers",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0018-4sum.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/4Sum.png"
   },
   {
-    "Question" : "Move Zeros", "Categorie" : "Two Pointers", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0283-move-zeroes.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Move Zeros",
+    "Categorie" : "Two Pointers",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0283-move-zeroes.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Merge Sorted Array", "Categorie" : "Two Pointers", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0088-merge-sorted-array.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Merge Sorted Array",
+    "Categorie" : "Two Pointers",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0088-merge-sorted-array.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Find K Closest Elements", "Categorie" : "Sliding Window", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0658-find-k-closest-elements.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/FindKClosestElements.png"
+    "Question" : "Find K Closest Elements",
+    "Categorie" : "Sliding Window",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0658-find-k-closest-elements.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/FindKClosestElements.png"
   },
   {
-    "Question" : "Simplify Path", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0071-simplify-path.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Simplify Path",
+    "Categorie" : "Stack",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0071-simplify-path.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Decode String", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0394-decode-string.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Decode String",
+    "Categorie" : "Stack",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0394-decode-string.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Remove All Adjacent Duplicates In String II", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1209-remove-all-adjacent-duplicates-in-string-ii.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Remove All Adjacent Duplicates In String II",
+    "Categorie" : "Stack",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1209-remove-all-adjacent-duplicates-in-string-ii.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Online Stock Span", "Categorie" : "Stack", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0901-online-stock-span.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Online Stock Span",
+    "Categorie" : "Stack",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0901-online-stock-span.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Split Array Largest Sum", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0410-split-array-largest-sum.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Split Array Largest Sum",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0410-split-array-largest-sum.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Search In Rotated Sorted Array", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0033-search-in-rotated-sorted-array.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Search In Rotated Sorted Array",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0033-search-in-rotated-sorted-array.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Find Minimum In Rotated Sorted Array", "Categorie" : "Binary Search", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0153-find-minimum-in-rotated-sorted-array.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Find Minimum In Rotated Sorted Array",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0153-find-minimum-in-rotated-sorted-array.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Guess Number Higher Or Lower", "Categorie" : "Binary Search", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0374-guess-number-higher-or-lower.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Guess Number Higher Or Lower",
+    "Categorie" : "Binary Search",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0374-guess-number-higher-or-lower.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Linked List Cycle", "Categorie" : "Linked List", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0141-linked-list-cycle.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Linked List Cycle",
+    "Categorie" : "Linked List",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0141-linked-list-cycle.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Swap Nodes In Pairs", "Categorie" : "Linked List", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0024-swap-nodes-in-pairs.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Swap Nodes In Pairs",
+    "Categorie" : "Linked List",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0024-swap-nodes-in-pairs.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Reverse Linked List II", "Categorie" : "Linked List", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0092-reverse-linked-list-ii.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Reverse Linked List II",
+    "Categorie" : "Linked List",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0092-reverse-linked-list-ii.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Intersection of Two Linked Lists", "Categorie" : "Linked List", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0160-intersection-of-two-linked-lists.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Intersection of Two Linked Lists",
+    "Categorie" : "Linked List",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0160-intersection-of-two-linked-lists.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Reverse Nodes In K Group", "Categorie" : "Linked List", "Difficulty": "Hard", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0025-reverse-nodes-in-k-group.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Reverse Nodes In K Group",
+    "Categorie" : "Linked List",
+    "Difficulty": "Hard",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0025-reverse-nodes-in-k-group.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Diameter of Binary Tree", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0543-diameter-of-binary-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Diameter of Binary Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0543-diameter-of-binary-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Merge Two Binary Trees", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0617-merge-two-binary-trees.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Merge Two Binary Trees",
+    "Categorie" : "Trees",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0617-merge-two-binary-trees.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Path Sum", "Categorie" : "Trees", "Difficulty": "Easy", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0064-minimum-path-sum.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Path Sum",
+    "Categorie" : "Trees",
+    "Difficulty": "Easy",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0064-minimum-path-sum.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Count Good Nodes In Binary Tree", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1448-count-good-nodes-in-binary-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Count Good Nodes In Binary Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1448-count-good-nodes-in-binary-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Validate Binary Search Tree", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0098-validate-binary-search-tree.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Validate Binary Search Tree",
+    "Categorie" : "Trees",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0098-validate-binary-search-tree.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Construct Binary Tree From Preorder And Inorder Traversal", "Categorie" : "Trees", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0105-construct-binary-tree-from-preorder-and-inorder-traversal.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Construct Binary Tree From Preorder And Inorder Traversal",
+    "Categorie" : "Trees",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "K Closest Points to Origin", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0973-k-closest-points-to-origin.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "K Closest Points to Origin",
+    "Categorie" : "Heap",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0973-k-closest-points-to-origin.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Kth Largest Element In An Array", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0215-kth-largest-element-in-an-array.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Kth Largest Element In An Array",
+    "Categorie" : "Heap",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0215-kth-largest-element-in-an-array.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Seat Reservation Manager", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1845-seat-reservation-manager.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Seat Reservation Manager",
+    "Categorie" : "Heap",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1845-seat-reservation-manager.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Find The Kth Largest Integer In The Array", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1985-find-the-kth-largest-integer-in-the-array.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Find The Kth Largest Integer In The Array",
+    "Categorie" : "Heap",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/1985-find-the-kth-largest-integer-in-the-array.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   },
   {
-    "Question" : "Reorganize String", "Categorie" : "Heap", "Difficulty": "Medium", "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0767-reorganize-string.py", "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
+    "Question" : "Reorganize String",
+    "Categorie" : "Heap",
+    "Difficulty": "Medium",
+    "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0767-reorganize-string.py",
+    "Prompt": "https://sathvik88.github.io/LeetcodeQuestionsAPI/QuestionPrompts/3Sum.png"
   }
 ]
