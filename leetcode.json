@@ -11,8 +11,7 @@
     "Categorie" : "Arrays and Hashing",
     "Difficulty": "Easy",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0242-valid-anagram.py",
-    "Prompt": "Given two strings s and t, return true if t is an anagram of s, and false otherwise.
-    An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once."
+    "Prompt": "Given two strings s and t, return true if t is an anagram of s, and false otherwise. An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once."
 
   },
   {
@@ -20,9 +19,7 @@
     "Categorie" : "Arrays and Hashing",
     "Difficulty": "Easy",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0001-two-sum.py",
-    "Prompt": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-    You may assume that each input would have exactly one solution, and you may not use the same element twice.
-    You can return the answer in any order."
+    "Prompt": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order."
 
   },
   {
@@ -30,9 +27,7 @@
     "Categorie" : "Arrays and Hashing",
     "Difficulty": "Medium",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0049-group-anagrams.py",
-    "Prompt": "Given an array of strings strs, group the anagrams together.
-    An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
-    You can return the answer in any order."
+    "Prompt": "Given an array of strings strs, group the anagrams together. An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. You can return the answer in any order."
 
   },
   {
@@ -48,9 +43,7 @@
     "Categorie" : "Arrays and Hashing",
     "Difficulty": "Medium",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0238-product-of-array-except-self.py",
-    "Prompt": "Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
-    The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
-    You must write an algorithm that runs in O(n) time and without using the division operation."
+    "Prompt": "Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i]. The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer. You must write an algorithm that runs in O(n) time and without using the division operation."
 
   },
   {
@@ -58,19 +51,14 @@
     "Categorie" : "Arrays and Hashing",
     "Difficulty": "Medium",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0036-valid-sudoku.py",
-    "Prompt": "Determine if a 9 x 9 Sudoku board is valid.
-    Only the filled cells need to be validated according to the following rules:
-    Each row must contain the digits 1-9 without repetition.
-    Each column must contain the digits 1-9 without repetition.
-    Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition."
+    "Prompt": "Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules: Each row must contain the digits 1-9 without repetition. Each column must contain the digits 1-9 without repetition. Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition."
   },
   {
     "Question" : "Encode and Decode Strings",
     "Categorie" : "Arrays and Hashing",
     "Difficulty": "Medium",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0271-encode-and-decode-strings.py",
-    "Prompt": "Design an algorithm to encode a list of strings to a string.
-    The encoded string is then sent over the network and is decoded back to the original list of strings."
+    "Prompt": "Design an algorithm to encode a list of strings to a string. The encoded string is then sent over the network and is decoded back to the original list of strings."
 
   },
   {
@@ -86,8 +74,7 @@
     "Categorie" : "Two Pointers",
     "Difficulty": "Easy",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0125-valid-palindrome.py",
-    "Prompt": "A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward.
-    Alphanumeric characters include letters and numbers. Given a string s, return true if it is a palindrome, or false otherwise."
+    "Prompt": "A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers. Given a string s, return true if it is a palindrome, or false otherwise."
 
   },
   {
@@ -95,11 +82,7 @@
     "Categorie" : "Two Pointers",
     "Difficulty": "Medium",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0167-two-sum-ii-input-array-is-sorted.py",
-    "Prompt": "Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number.
-    Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.
-    length. Return the indices of the two numbers, index1 and index2, added by one as an integer array [index1, index2] of length 2.
-    The tests are generated such that there is exactly one solution.
-    You may not use the same element twice."
+    "Prompt": "Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers. length. Return the indices of the two numbers, index1 and index2, added by one as an integer array [index1, index2] of length 2. The tests are generated such that there is exactly one solution."
 
   },
   {
@@ -107,8 +90,7 @@
     "Categorie" : "Two Pointers",
     "Difficulty": "Medium",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0015-3sum.py",
-    "Prompt": "Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
-    Notice that the solution set must not contain duplicate triplets."
+    "Prompt": "Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0. Notice that the solution set must not contain duplicate triplets."
 
   },
   {
@@ -116,10 +98,7 @@
     "Categorie" : "Two Pointers",
     "Difficulty": "Medium",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0011-container-with-most-water.py",
-    "Prompt": "You are given an integer array height of length n.
-    There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
-    Find two lines that together with the x-axis form a container, such that the container contains the most water.
-    Return the maximum amount of water a container can store."
+    "Prompt": "You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]). Find two lines that together with the x-axis form a container, such that the container contains the most water. Return the maximum amount of water a container can store."
   },
   {
     "Question" : "Trapping Rain Water",
@@ -134,9 +113,7 @@
     "Categorie" : "Sliding Window",
     "Difficulty": "Easy",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0121-best-time-to-buy-and-sell-stock.py",
-    "Prompt": "You are given an array prices where prices[i] is the price of a given stock on the ith day.
-    You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
-    Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0."
+    "Prompt": "You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0."
 
   },
   {
@@ -152,10 +129,7 @@
     "Categorie" : "Sliding Window",
     "Difficulty": "Medium",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0424-longest-repeating-character-replacement.py",
-    "Prompt": "You are given a string s and an integer k.
-    You can choose any character of the string and change it to any other uppercase English character.
-    You can perform this operation at most k times.
-    Return the length of the longest substring containing the same letter you can get after performing the above operations."
+    "Prompt": "You are given a string s and an integer k. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most k times. Return the length of the longest substring containing the same letter you can get after performing the above operations."
 
   },
   {
@@ -163,8 +137,7 @@
     "Categorie" : "Sliding Window",
     "Difficulty": "Medium",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0567-permutation-in-string.py",
-    "Prompt": "Given two strings s1 and s2, return true if s2 contains a permutation of s1, or false otherwise.
-    In other words, return true if one of s1's permutations is the substring of s2."
+    "Prompt": "Given two strings s1 and s2, return true if s2 contains a permutation of s1, or false otherwise. In other words, return true if one of s1's permutations is the substring of s2."
 
   },
   {
@@ -172,9 +145,7 @@
     "Categorie" : "Sliding Window",
     "Difficulty": "Hard",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0076-minimum-window-substring.py",
-    "Prompt": "Given two strings s and t of lengths m and n respectively, return the minimum window substring of s such that every character in t (including duplicates) is included in the window.
-    If there is no such substring, return the empty string.
-    The testcases will be generated such that the answer is unique."
+    "Prompt": "Given two strings s and t of lengths m and n respectively, return the minimum window substring of s such that every character in t (including duplicates) is included in the window. If there is no such substring, return the empty string. The testcases will be generated such that the answer is unique."
 
   },
   {
@@ -182,9 +153,7 @@
     "Categorie" : "Sliding Window",
     "Difficulty": "Hard",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0239-sliding-window-maximum.py",
-    "Prompt": "You are given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right.
-    You can only see the k numbers in the window. Each time the sliding window moves right by one position.
-    Return the max sliding window."
+    "Prompt": "You are given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window."
 
   },
   {
@@ -200,14 +169,7 @@
     "Categorie" : "Stack",
     "Difficulty": "Medium",
     "Solution": "https://github.com/neetcode-gh/leetcode/blob/main/python/0155-min-stack.py",
-    "Prompt": "Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
-    Implement the MinStack class:
-    MinStack() initializes the stack object.
-    void push(int val) pushes the element val onto the stack.
-    void pop() removes the element on the top of the stack.
-    int top() gets the top element of the stack.
-    int getMin() retrieves the minimum element in the stack.
-    You must implement a solution with O(1) time complexity for each function."
+    "Prompt": "Design a stack that supports push, pop, top, and retrieving the minimum element in constant time. Implement the MinStack class: MinStack() initializes the stack object. void push(int val) pushes the element val onto the stack. void pop() removes the element on the top of the stack. int top() gets the top element of the stack. int getMin() retrieves the minimum element in the stack. You must implement a solution with O(1) time complexity for each function."
 
   },
   {
